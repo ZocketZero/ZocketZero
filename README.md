@@ -6,9 +6,9 @@ version: 2.0.0
 <!-- Generated from https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 -->
 
 ```red
- ___  __   __      __   __   __     ___ ___
-|__  /  \ |__)    /__` /  \ /  ` | |__   |  \ /
-|    \__/ |  \    .__/ \__/ \__, | |___  |   |
+__  __   __        ___ ___ __  ___  __   __  
+ / /  \ /  ` |__/ |__   |   / |__  |__) /  \ 
+/_ \__/ \__, |  \ |___  |  /_ |___ |  \ \__/ 
 ```
 
 Hello friend!
