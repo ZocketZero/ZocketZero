@@ -23,7 +23,7 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 [email]: mailto:contact@nawasan.dev
 [website]: https://nawasan.dev
 [youtube]: https://youtube.com/@Arikato111
-[crates.io]: https://crates.io/users/Arikato111
+[crates.io]: https://crates.io/users/ZocketZero
 [npm]: https://www.npmjs.com/~arikato111
 [linkedin]: https://www.linkedin.com/in/nawasan/
 [resume]: https://resume.nawasan.dev
@@ -31,7 +31,7 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 ### Internet Relay Chat (IRC)
 
 * **Network:** `Libera.Chat` ( `irc.libera.chat` )
-* **Channel:** `#SocketZero`
+* **Channel:** `#ZocketZero`
 
 <!-- Repositories begin -->
 
