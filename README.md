@@ -57,6 +57,11 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 - [lottery-prediction](https://github.com/Arikato111/lottery-prediction)
 - [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
 
+- Cybersecurity
+  - [Sked](https://github.com/ZocketZero/sked) (utilities pack for pentest)
+  - [irc-tor](https://github.com/ZocketZero/irc-tor) (Running Irc server via tor network with docker or podman)
+  - [tor-webserver](https://github.com/ZocketZero/tor-webserver) (Running website via tor network with onion domain)
+
 </div>
 
 - <details>
