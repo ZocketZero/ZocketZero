@@ -42,15 +42,16 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 
 <div>
 
-- [Tenjin](https://github.com/Arikato111/Tenjin) (SDN Framework)
-- [fpas](https://github.com/Arikato111/fpas) (Generate long and complex password)
+- Rust
+  - [Tenjin](https://github.com/Arikato111/Tenjin) (SDN Framework)
+  - [fpas](https://github.com/Arikato111/fpas) (Generate long and complex password)
+  - [byfi-rust](https://github.com/Arikato111/byfi-rust)
+  - [find_subnet](https://github.com/Arikato111/find_subnet)
 - [btc-wallet](https://github.com/Arikato111/btc-wallet) (Generate bitcoin wallet)
 - [block-script](https://github.com/Arikato111/block-script) (Firefox extension to block javascript)
 - [lad-theme-firefox](https://github.com/Arikato111/lad-theme-firefox) (Dark and Light Theme for firefox)
 - [chromium-darktheme](https://github.com/Arikato111/chromium-darktheme) (Darktheme for chromium based browser)
 - [what-to-read](https://github.com/Arikato111/what-to-read) (Random books to read)
-- [byfi-rust](https://github.com/Arikato111/byfi-rust)
-- [find_subnet](https://github.com/Arikato111/find_subnet)
 - [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
