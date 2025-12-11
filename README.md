@@ -18,7 +18,7 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 
 ## Contact me
 
-[Email][email] | [Website][website] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
+[Email][email] | [Website][website] | [Gitlab][gitlab] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
 
 [email]: mailto:contact@nawasan.dev
 [website]: https://nawasan.dev
@@ -27,6 +27,7 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 [npm]: https://www.npmjs.com/~arikato111
 [linkedin]: https://www.linkedin.com/in/nawasan/
 [resume]: https://resume.nawasan.dev
+[gitlab]: https://gitlab.com/ZocketZero
 
 ### Internet Relay Chat (IRC)
 
@@ -59,6 +60,7 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 - [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
 
 - Cybersecurity
+  - [vuln](https://github.com/ZocketZero/vuln) (vuln example and scripts)
   - [Sked](https://github.com/ZocketZero/sked) (utilities pack for pentest)
   - [irc-tor](https://github.com/ZocketZero/irc-tor) (Running Irc server via tor network with docker or podman)
   - [tor-webserver](https://github.com/ZocketZero/tor-webserver) (Running website via tor network with onion domain)
