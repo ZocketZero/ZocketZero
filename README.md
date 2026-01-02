@@ -5,7 +5,7 @@ version: 2.0.0
 
 <!-- Generated from https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 -->
 
-```red
+```r
  _____          _        _     _____              
 |__  /___   ___| | _____| |_ _|__  /___ _ __ ___  
   / // _ \ / __| |/ / _ \ __(_) / // _ \ '__/ _ \ 
