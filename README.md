@@ -14,7 +14,7 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 - **Debian:** [salsa.debian.org/ZocketZero](https://salsa.debian.org/ZocketZero)
 - **CodeBerg:** [codeberg.org/zocketzero](https://codeberg.org/zocketzero)
 
-### Socials
+### Find me
 
 - **Email:** [zocketzero@proton.me](mailto:zocketzero@proton.me)
 - **Website:** [nawasan.dev](https://nawasan.dev)
@@ -22,13 +22,13 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 - **Linkedin:** [www.linkedin.com/in/nawasan/](https://www.linkedin.com/in/nawasan/)
 - **Mastodon:** [infosec.exchange/@zocketzero](https://infosec.exchange/@zocketzero)
 
-### Libraries
+### Published Libraries
 
 - **crates.io:** [crates.io/users/ZocketZero](https://crates.io/users/ZocketZero)
 - **npm:** [www.npmjs.com/~arikato111](https://www.npmjs.com/~arikato111)
 - **pypi:** [pypi.org/user/arikato111/](https://pypi.org/user/arikato111/)
 
-### Learning
+### Practice
 
 - **Tryhackme:** [tryhackme.com/p/ZocketZero](https://tryhackme.com/p/ZocketZero)
 - **Hackthebox:** [app.hackthebox.com/users/2300894](https://app.hackthebox.com/users/2300894)
@@ -50,5 +50,6 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 > \- Sun Tzu's The Art of War
 
 ---
+
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![profile_view](https://komarev.com/ghpvc/?username=arikato111)
